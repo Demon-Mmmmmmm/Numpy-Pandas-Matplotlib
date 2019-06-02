@@ -1,1 +1,1 @@
-这些文件都是又Jupyter-notebook创建的，是在Jupyter-notebook练习的。
+这些文件都是由Jupyter-notebook创建的，是在Jupyter-notebook练习的。
